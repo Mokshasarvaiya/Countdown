@@ -1,0 +1,24 @@
+body{
+   
+    background:rgb(78, 78, 148);
+}
+.container{
+    display:flex;
+    justify-content: center;
+    background: #f0ebeb;
+    color: black;
+    height: 35vh;
+    width: 80vh;
+    border: 4px black;
+    border-radius: 08%;
+}
+.restart{
+    background-color: #0e741d;
+    margin-left: 5px;
+    ;
+}
+.stop{
+    background-color: red;
+    margin-left: 10px;
+}
+
